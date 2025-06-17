@@ -44,7 +44,9 @@
 ### 📊 GitHub Stats:
 
 ![Shivani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivyy247&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shivyy247&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shivyy247&theme=tokyonight&hide_border=false)
+
+
 
 
 ---
