@@ -43,8 +43,9 @@
 
 ### 📊 GitHub Stats:
 
-![Shivani's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivani-barman&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=shivani-barman&theme=radical)
+![Shivani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivyy247&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shivyy247&theme=tokyonight)
+
 
 ---
 
