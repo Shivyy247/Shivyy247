@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivani Barman</h1>
-<h3 align="center">A passionate Computer Science & Data Science student </h3>
+<h3 align="center"> Engineer in the making | Future Philanthropist </h3>
 
 ---
 
