@@ -8,7 +8,7 @@
 **→ Web Development (HTML, CSS, JS)**  
 **→ Git and GitHub**
 
-💬 Ask me about:  
+💬 
 **C++ | DSA | Git | GitHub | Web Dev**
 
 🎯 Goals:  
