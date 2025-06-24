@@ -13,6 +13,7 @@
 
 🎯 Goals:  
 → To become a skilled software engineer and build impactful projects
+<br>
 → To become a future philanthropist and make a positive impact on society 🌍🌱
 
 📫 Connect with me:
