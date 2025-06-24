@@ -12,8 +12,8 @@
 **C++ | DSA | Git | GitHub | Web Dev**
 
 🎯 Goals:  
-→ To become a skilled software engineer and build impactful projects.
-→ To become a future philanthropist and make a positive impact on society 🌍🌱.
+→ To become a skilled software engineer and build impactful projects
+→ To become a future philanthropist and make a positive impact on society 🌍🌱
 
 📫 Connect with me:
 
