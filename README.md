@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shivani Barman</h1>
+<h1 align="center">Hi , I'm Shivani Barman</h1>
 <h3 align="center"> Engineer in the making | Future Philanthropist </h3>
 
 ---
@@ -12,8 +12,8 @@
 **C++ | DSA | Git | GitHub | Web Dev**
 
 🎯 Goals:  
-→ To become a skilled software developer and build impactful projects!  
-→ Contribute to open-source and grow with the community 🌱
+→ To become a skilled software engineer and build impactful projects.
+→ To become a future philanthropist and make a positive impact on society 🌍🌱.
 
 📫 Connect with me:
 
@@ -51,4 +51,4 @@
 
 ---
 
-> **"Do good, Be good, Build good." 🌼**
+> ** "Do good, Be good, Build good." 🌼**
