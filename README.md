@@ -4,8 +4,7 @@
 ---
 
 ### 🔧 What I Do:
-- I build meaningful projects to learn and grow.  
-- I write clean, structured, and readable code.  
+- I build meaningful projects to learn and grow.    
 - I enjoy solving problems and exploring new technologies.
 
 ---
@@ -46,7 +45,11 @@
 ---
 
 ### 📊 GitHub Stats:
-![Shivani's GitHub Stats](https://streak-stats.demolab.com/?user=Shivyy247&theme=tokyonight)
+
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shivyy247&show_icons=true&theme=tokyonight)
+
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivyy247&theme=tokyonight)
+
 
 
 
