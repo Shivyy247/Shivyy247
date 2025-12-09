@@ -46,7 +46,8 @@
 
 ### 📊 GitHub Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Shivyy247&theme=tokyonight)](https://git.io/streak-stats)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shivyy247&theme=tokyo-night)
+
 
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivyy247&theme=tokyonight)
 
