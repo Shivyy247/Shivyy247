@@ -46,7 +46,7 @@
 
 ### 📊 GitHub Stats:
 
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shivyy247&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Shivyy247&theme=tokyonight)](https://git.io/streak-stats)
 
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivyy247&theme=tokyonight)
 
