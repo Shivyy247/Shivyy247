@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Shivani Barman</h1>
-<h3 align="center"> Developer & Philanthropist in the making </h3>
+<h3 align="center"> Engineer in the making | Furure Philanthropist </h3>
 
 ---
 
