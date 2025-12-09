@@ -46,8 +46,8 @@
 ---
 
 ### 📊 GitHub Stats:
+![Shivani's GitHub Stats](https://streak-stats.demolab.com/?user=Shivyy247&theme=tokyonight)
 
-![Shivani's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shivyy247&show_icons=true&theme=tokyonight)
 
 
 ---
