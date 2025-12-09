@@ -3,11 +3,6 @@
 
 ---
 
-🌼 **Bio:**  
-✨ *“Building myself, one line of code at a time.”*
-
----
-
 ### 🔧 What I Do:
 - I build meaningful projects to learn and grow.  
 - I write clean, structured, and readable code.  
@@ -52,7 +47,8 @@
 
 ### 📊 GitHub Stats:
 
-![Shivani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivyy247&show_icons=true&theme=tokyonight)
+![Shivani's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shivyy247&show_icons=true&theme=tokyonight)
+
 
 ---
 
