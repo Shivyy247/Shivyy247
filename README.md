@@ -58,7 +58,15 @@
 
 ### 📊 GitHub Stats:
 
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivyy247&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shivyy247&theme=dark)
+
+
+
+
+
+
+
+
 
 
 
