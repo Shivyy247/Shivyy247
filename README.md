@@ -58,7 +58,14 @@
 
 ### 📊 GitHub Stats:
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shivyy247&theme=dark)
+
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=Shivyy247&theme=dark&ring_color=2a2a2a&fire_color=2a2a2a&currStreakNum=dcdcdc&sideNums=9a9a9a&sideLabels=7a7a7a)](https://github.com/Shivyy247)
+
+
+
+
+
+
 
 
 
