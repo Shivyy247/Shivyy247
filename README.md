@@ -60,7 +60,10 @@
 ### 📊 GitHub Stats:
 
 
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=Shivyy247&theme=dark&ring_color=2a2a2a&fire_color=2a2a2a&currStreakNum=dcdcdc&sideNums=9a9a9a&sideLabels=7a7a7a)](https://github.com/Shivyy247)
+<!-- İnteraktif GitHub Streak Widget -->
+<a href="https://github-streak-stats-gray.vercel.app/user/Shivyy247">
+  <img src="https://github-streak-stats-gray.vercel.app/api/github/Shivyy247/svg" alt="GitHub Streak Stats" width="1000" height="320" />
+</a>
 
 
 
