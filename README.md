@@ -53,17 +53,11 @@
 </p>
 
 
----
 
 
 
-### 📊 GitHub Stats:
 
 
-<!-- İnteraktif GitHub Streak Widget -->
-<a href="https://github-streak-stats-gray.vercel.app/user/Shivyy247">
-  <img src="https://github-streak-stats-gray.vercel.app/api/github/Shivyy247/svg" alt="GitHub Streak Stats" width="1000" height="320" />
-</a>
 
 
 
