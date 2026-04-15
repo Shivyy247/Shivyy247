@@ -1,11 +1,9 @@
 ### Hello, I'm Shivani Barman
 ---
 
-A third-year CSE (Data Science) student focused on building performant and scalable applications.
-
-I build applications using the MERN stack and also develop backend services with FastAPI and PostgreSQL.
-
-Currently learning system design and building projects that bridge development and data.
+- A third-year CSE (Data Science) student focused on building performant and scalable applications.
+- I build applications using the MERN stack and also develop backend services with FastAPI and PostgreSQL.
+- Currently learning system design and building projects that bridge development and data.
 
 ---
 
@@ -23,10 +21,10 @@ Currently learning system design and building projects that bridge development a
 
 <p align="left">
   <a href="https://www.linkedin.com/in/shivani-barman-41a302329/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
   </a>
   <a href="https://leetcode.com/u/STU5ZGXBUb/" target="_blank">
-    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40" />
   </a>
 </p>
 
