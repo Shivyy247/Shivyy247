@@ -1,46 +1,25 @@
-<h1 align="center">Hi, I'm Shivani Barman 👋</h1>
-<h3 align="center">BTech CSE (Data Science) | MERN Stack Developer | DSA Enthusiast</h3>
+### Hello, I'm Shivani Barman
+---
+
+A third-year CSE (Data Science) student focused on building performant and scalable applications.
+
+I build applications using the MERN stack and also develop backend services with FastAPI and PostgreSQL.
+
+Currently learning system design and building projects that bridge development and data.
 
 ---
 
-### 🚀 About Me:
-- I build scalable full-stack web applications using the MERN stack.
-- I believe in consistency, continuous learning, and practical implementation.
-
----
-
-### ⚡ Tech Stack
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css,react,nextjs,nodejs,express,mongodb,git,github" />
+  <a href="https://github-streak-stats-gray.vercel.app/user/Shivyy247">
+    <img src="https://github-streak-stats-gray.vercel.app/api/github/Shivyy247/svg" alt="GitHub Streak Stats" width="1000" />
+  </a>
 </p>
 
 ---
 
-### 📈 Currently Working On:
-- Improving problem-solving skills (DSA practice)
-- Building real-world full-stack applications
-- Exploring backend optimization and performance
-
----
-
-### 🎯 Goals:
-→ To become a skilled software engineer and build impactful solutions  
-→ To continuously learn, adapt, and grow in the tech industry  
-
----
-
-### 📊 GitHub Stats:
-
-
-<!-- İnteraktif GitHub Streak Widget -->
-<a href="https://github-streak-stats-gray.vercel.app/user/Shivyy247">
-  <img src="https://github-streak-stats-gray.vercel.app/api/github/Shivyy247/svg" alt="GitHub Streak Stats" width="1000" height="320" />
-</a>
-
----
-
-### 📫 Connect With Me:
+### 📫 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/shivani-barman-41a302329/" target="_blank">
@@ -48,9 +27,6 @@
   </a>
   <a href="https://leetcode.com/u/STU5ZGXBUb/" target="_blank">
     <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://www.codechef.com/users/shivani_barman" target="_blank">
-    <img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 </p>
 
