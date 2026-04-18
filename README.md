@@ -7,16 +7,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github-streak-stats-gray.vercel.app/user/Shivyy247">
-    <img src="https://github-streak-stats-gray.vercel.app/api/github/Shivyy247/svg" alt="GitHub Streak Stats" width="1000" />
-  </a>
-</p>
-
----
-
 ### 📫 Connect With Me
 
 <p align="left">
