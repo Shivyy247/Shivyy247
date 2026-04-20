@@ -1,23 +1,10 @@
-### Hello, I'm Shivani Barman
----
+### hey, i'm shivani  
+---  
+  
+a cs undergrad who likes building things that actually work. i’m mostly into backend — working with fastapi and node/express, designing apis, handling databases, and figuring out how systems fit together.  
 
-- A third-year CSE (Data Science) student focused on building performant and scalable applications.
-- I build applications using the MERN stack and also develop backend services with FastAPI and PostgreSQL.
-- Currently learning system design and building projects that bridge development and data.
-
----
-
-### 📫 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/shivani-barman-41a302329/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/STU5ZGXBUb/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40" />
-  </a>
-</p>
+i do full stack too, but backend is where i enjoy solving real problems. currently learning, experimenting, and trying to get better with every project i build.
 
 ---
 
-> **"Do good. Be good. Build good." 🌼**
+> **if it works, it works. if it breaks, i’ll fix it.**
