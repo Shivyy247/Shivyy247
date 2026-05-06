@@ -1,10 +1,30 @@
-### hey, i'm shivani  
----  
-  
-a cs undergrad who likes building things that actually work. i’m mostly into backend — working with fastapi and node/express, designing apis, handling databases, and figuring out how systems fit together.  
-
-i do full stack too, but backend is where i enjoy solving real problems. currently learning, experimenting, and trying to get better with every project i build.
+<h3 align="left">hey, i'm shivani</h3>
 
 ---
 
-> **if it works, it works. if it breaks, i’ll fix it.**
+<p>
+I build things across the stack  not picking sides, just picking what works
+</p>
+
+
+<p>
+most days you'll find me somewhere between react and node<br>
+occasionally switching to fastapi, wiring things up with postgres<br>
+or making real-time stuff behave with websockets
+</p>
+
+
+<p>
+I like clean logic simple systems and code that doesn’t fight back
+</p>
+
+<p>
+still learning, still breaking things, still fixing them
+</p>
+
+---
+
+<p>
+if it works, it works.<br>
+if it doesn’t, give me a minute.
+</p>
