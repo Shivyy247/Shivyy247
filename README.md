@@ -24,6 +24,12 @@ still learning, still breaking things, still fixing them
 
 ---
 
+streak stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Shivyy247&theme=tokyonight)](https://git.io/streak-stats)
+
+---
+
 <p>
 if it works, it works.<br>
 if it doesn’t, give me a minute.
