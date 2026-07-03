@@ -24,7 +24,7 @@ still learning, still breaking things, still fixing them
 
 ---
 
-streak stats
+<h4>streak stats</h4>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Shivyy247&theme=tokyonight)](https://git.io/streak-stats)
 
